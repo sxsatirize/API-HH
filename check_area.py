@@ -1,7 +1,8 @@
 import requests
 
 headers = {
-    'User-Agent': 'MyApp/1.0 (my-app-feedback@example.com)'
+    "User-Agent": "JobSearcher/1.0 (support@jobsearcher.com)",
+    "HH-User-Agent": "JobSearcher/1.0 (support@jobsearcher.com)"
 }
 
 try:
